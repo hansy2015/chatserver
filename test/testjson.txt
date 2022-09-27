@@ -1,0 +1,4 @@
+{"msgid":3, "name":"tourist", "password":"123456"}
+{"msgid":1, "id":1, "password":"123456"}
+{"msgid":1, "id":2, "password":"123456"}
+{"msgid":5, "id":1, "from":"tourist", "to":2, "msg":"hello2222"}
